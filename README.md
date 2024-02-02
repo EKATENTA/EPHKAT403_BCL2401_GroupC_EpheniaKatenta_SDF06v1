@@ -25,7 +25,7 @@ i tried to implement the responsive design .
 #### Areas for Improvement
 
 - **Advanced CSS Properties**: I need to give it more practice in order to be able to fully understand the concepts.
-- **Code Optimization**: 
-- **Creative Design Choices**: 
+- **Code Optimization**: I wish i could have done better .
+- **Creative Design Choices**: I chose colors that i love and styled it the way i would do my own.
 
-#### Overall Learning Experience 
+#### Overall Learning Experience**: I had a great rime learning styling and animations .
